@@ -1,2 +1,0 @@
-# PCA
-Showcases PCA algorithm
